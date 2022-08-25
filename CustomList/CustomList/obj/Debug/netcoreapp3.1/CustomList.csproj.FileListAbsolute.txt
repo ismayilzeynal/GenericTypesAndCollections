@@ -1,0 +1,14 @@
+C:\Users\asus\OneDrive\Desktop\Code Academy\25.08.2022\CustomList\CustomList\bin\Debug\netcoreapp3.1\CustomList.exe
+C:\Users\asus\OneDrive\Desktop\Code Academy\25.08.2022\CustomList\CustomList\bin\Debug\netcoreapp3.1\CustomList.deps.json
+C:\Users\asus\OneDrive\Desktop\Code Academy\25.08.2022\CustomList\CustomList\bin\Debug\netcoreapp3.1\CustomList.runtimeconfig.json
+C:\Users\asus\OneDrive\Desktop\Code Academy\25.08.2022\CustomList\CustomList\bin\Debug\netcoreapp3.1\CustomList.runtimeconfig.dev.json
+C:\Users\asus\OneDrive\Desktop\Code Academy\25.08.2022\CustomList\CustomList\bin\Debug\netcoreapp3.1\CustomList.dll
+C:\Users\asus\OneDrive\Desktop\Code Academy\25.08.2022\CustomList\CustomList\bin\Debug\netcoreapp3.1\CustomList.pdb
+C:\Users\asus\OneDrive\Desktop\Code Academy\25.08.2022\CustomList\CustomList\obj\Debug\netcoreapp3.1\CustomList.csproj.AssemblyReference.cache
+C:\Users\asus\OneDrive\Desktop\Code Academy\25.08.2022\CustomList\CustomList\obj\Debug\netcoreapp3.1\CustomList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\OneDrive\Desktop\Code Academy\25.08.2022\CustomList\CustomList\obj\Debug\netcoreapp3.1\CustomList.AssemblyInfoInputs.cache
+C:\Users\asus\OneDrive\Desktop\Code Academy\25.08.2022\CustomList\CustomList\obj\Debug\netcoreapp3.1\CustomList.AssemblyInfo.cs
+C:\Users\asus\OneDrive\Desktop\Code Academy\25.08.2022\CustomList\CustomList\obj\Debug\netcoreapp3.1\CustomList.csproj.CoreCompileInputs.cache
+C:\Users\asus\OneDrive\Desktop\Code Academy\25.08.2022\CustomList\CustomList\obj\Debug\netcoreapp3.1\CustomList.dll
+C:\Users\asus\OneDrive\Desktop\Code Academy\25.08.2022\CustomList\CustomList\obj\Debug\netcoreapp3.1\CustomList.pdb
+C:\Users\asus\OneDrive\Desktop\Code Academy\25.08.2022\CustomList\CustomList\obj\Debug\netcoreapp3.1\CustomList.genruntimeconfig.cache
