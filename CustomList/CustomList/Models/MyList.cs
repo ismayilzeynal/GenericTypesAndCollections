@@ -6,16 +6,16 @@ namespace CustomList.Models
 {
     class MyList<T>
     {
-        ~MyList()
+        MyList(int capacity)
         {
-            Console.WriteLine("Cleared");
+            Capacity = capacity;
         }
 
 
-
+        
         T[] _arr;
         int _counter;
-        public int Capacity { get; } = 10;
+        public int Capacity { get; set; } = 1;
         public int Count { get => _arr.Length - _counter; }
         public MyList()
         {
