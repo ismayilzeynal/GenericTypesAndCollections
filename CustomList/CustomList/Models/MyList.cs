@@ -65,7 +65,7 @@ namespace CustomList.Models
                 if (object.Equals(_arr[i], item))
                     return i;
             }
-            throw new KeyNotFoundException();
+             return -1; 
         }
 
         public void Clear()
@@ -76,11 +76,14 @@ namespace CustomList.Models
 
         public void Remove(T item)
         {
+            if (IndexOf(item) == -1)
+                return;                                             // ve ya exception vermek olar
             for (int i = IndexOf(item); i < _arr.Length-1; i++)
             {
                 _arr[i]=_arr[i+1];
             }
             Array.Resize(ref _arr, _arr.Length - 1);
+            _counter--;
         }
 
         public bool Exist(T item)
@@ -114,6 +117,16 @@ namespace CustomList.Models
             }
             throw new KeyNotFoundException();
         }
+
+        //public static bool operator ==(T a, T b)
+        //{
+        //    return Object.Equals(a, b);
+        //}
+
+        //public static bool operator !=(T a, T b)
+        //{
+        //    return !Object.Equals(a, b);
+        //}
 
     }
 }
